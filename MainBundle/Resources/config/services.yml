@@ -1,0 +1,8 @@
+parameters:
+    liquidsoap.host: "localhost"
+    liquidsoap.port: 1234
+
+services:
+#    dj_panel_main.example:
+#        class: %dj_panel_main.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

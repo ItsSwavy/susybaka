@@ -1,0 +1,30 @@
+# Bootstrap
+app/bootstrap*
+
+# Symfony directories
+vendor/*
+*/logs/*
+*/cache/*
+web/uploads/*
+web/bundles/*
+web/js/*
+web/css/*
+web/images/*
+web/.htaccess
+
+# Configuration files
+app/config/parameters.ini
+app/config/parameters.yml
+
+# Composer
+composer.phar
+/nbproject/private/
+
+# Vagrant / Chef
+Vagrantfile
+.vagrant
+chef/*
+
+# Liquidsoap
+music/*
+liquidsoap/*.log
